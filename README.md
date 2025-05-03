@@ -24,9 +24,7 @@ SudoCop HashBro is a powerful file hashing utility designed for digital forensic
 
 1. Download the latest release from the releases page
 2. Extract the ZIP file to your preferred location
-3. Run SudocopHasher.exe
-
-No installation is required as the application is portable.
+3. Run setup.exe
 
 ## Usage
 
@@ -79,8 +77,3 @@ Files with errors are marked with "ERROR" in the status column and included in t
 
 ## License
 
-[Your license information here]
-
-## Contact & Support
-
-[Your contact information here]
