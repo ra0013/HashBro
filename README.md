@@ -54,8 +54,8 @@ Reporting & Export
 
 Comprehensive Reports: Generate detailed reports in multiple formats:
 
-PDF: Professional reports with case information, match analysis, and digital signatures
 Text: Human-readable reports with structured sections
+HTML: Professional reports with case information, match analysis, and digital signatures
 CSV: Structured data with metadata headers
 JSON: Machine-readable format with complete data structure
 
